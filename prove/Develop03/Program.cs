@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections.Generic;
 
@@ -8,6 +9,7 @@ class Program
         // Creativity feature:
         // The user can choose between multiple scriptures or let the
         // program select a random scripture from the library.
+
         List<Scripture> scriptures = new List<Scripture>
         {
             new Scripture(
