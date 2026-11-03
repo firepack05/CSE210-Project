@@ -1,3 +1,4 @@
+
 class Reference
 {
     private string _book;
